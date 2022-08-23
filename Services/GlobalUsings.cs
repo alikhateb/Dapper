@@ -1,0 +1,11 @@
+﻿global using DAL.Models;
+global using DAL.ModelsDTO.Company;
+global using DAL.ModelsDTO.Employee;
+global using Dapper;
+global using Dapper.Contrib.Extensions;
+global using Microsoft.Data.SqlClient;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Services.IServices;
+global using Services.Services;
+global using System.Data;
